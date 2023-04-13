@@ -1,6 +1,6 @@
-cd "G:\1mag1n33 Dev stuff\Mod updater\Minecraft_server\updater"
+cd "path"
 start "" /min "server.exe"
 cd ..
 timeout /t 5
-java -Xmx4G -jar spigot-1.14.jar nogui
+java -Xmx4G -jar "your server jar file" nogui
 PAUSE
